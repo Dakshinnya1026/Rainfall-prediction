@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "Humidity3pm",
+    "importance": 0.087
+  },
+  {
+    "feature": "RainToday_0.0",
+    "importance": 0.0665
+  },
+  {
+    "feature": "Rainfall",
+    "importance": 0.0287
+  },
+  {
+    "feature": "Cloud3pm",
+    "importance": 0.0266
+  },
+  {
+    "feature": "Sunshine",
+    "importance": 0.0243
+  },
+  {
+    "feature": "WindGustSpeed",
+    "importance": 0.0227
+  },
+  {
+    "feature": "Pressure3pm",
+    "importance": 0.0178
+  },
+  {
+    "feature": "WindDir3pm_N",
+    "importance": 0.0141
+  },
+  {
+    "feature": "Location_Adelaide",
+    "importance": 0.0137
+  },
+  {
+    "feature": "Location_Brisbane",
+    "importance": 0.0133
+  },
+  {
+    "feature": "WindDir3pm_NNW",
+    "importance": 0.013
+  },
+  {
+    "feature": "Location_Townsville",
+    "importance": 0.0125
+  },
+  {
+    "feature": "WindDir9am_NNE",
+    "importance": 0.0123
+  },
+  {
+    "feature": "Location_Witchcliffe",
+    "importance": 0.012
+  },
+  {
+    "feature": "Location_Wollongong",
+    "importance": 0.0115
+  }
+]
